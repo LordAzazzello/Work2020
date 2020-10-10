@@ -79,6 +79,7 @@ int main()
 	{
 		delete arr2d[i];
 	}
+	delete[]arr2d;
 	delete[]arr;
 	return 0;
 }
