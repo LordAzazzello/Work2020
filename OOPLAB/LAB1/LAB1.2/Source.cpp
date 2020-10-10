@@ -9,78 +9,76 @@
 #include <iomanip>
 #include <stdio.h>
 #include <math.h>
+#include <cstring>
 
 using namespace std; // чтобы не записывать std::cin
 
-double* mas = new double[25]; //Параметры массива
-int d = 5;//Элементы вниз
-int r = 5;//Элементы вправо
-int n;//Элемент массива
-double mas2d[5][5];
+int i;//Индекс элемента
+int rows = 5;//Строки
+int cols = 5;//Столбцы
+float* arr = new float[25];//Выделил место под массив
 
-
-
-void processArray(double, int);
-void processSort(int*, int, int);
-void process2D(double*, double**);
-
-void processArray(double* mas, int n)//Инициализация массива
+void arrIN(float* arr)
 {
-	for (int n = 0; n < 25; n++)
+	for (i = 0; i < 25; i++)
 	{
-		mas[n] = n * sin((3.14 * n) / 25);
-		cout << setw(10) << mas[n];
+		arr[i] = i * sin((3.14 * i) / 25);
+		cout << setw(10) << arr[i];
 	}
 }
 
-void processSort(double* mas, int d, int r)//Сортировка массива
+float** krey2d(float** arr2d, float* arr, size_t  rows,  size_t  cols)
 {
-	for (d = 0; d < 5; d++)
+	int coun = 0;
+	for (int i = 0; i < rows; i++)
 	{
-		for (r = 0; r < 5; r++)
+		for (int j = 0; j < cols; j++)
 		{
-			mas2d[d][r] = mas[n];
-			n++;
+			*(*(arr2d + i) + j) = *(arr+i*cols+j);
+			cout << setw(10) << arr2d[i][j];
+			//coun++;
 		}
+		coun++;
 		cout << endl;
 	}
-
+	return arr2d;
 }
 
-void process2D(double*, double**)
+void summ(float** arr2d)
 {
-	for (d = 0; d < 5; d++)
+	for (int i = 0; i < 5; i++)
 	{
-		for (r = 0; r < 5; r++)
+		for (int j = 0; j < 5; j++)
 		{
-			cout.width(10);
-			mas2d[d][0] = mas2d[d][r + 1] + mas2d[d][r + 2] + mas2d[d][r + 3] + mas2d[d][r + 4];
-			cout << mas2d[d][r];
+			cout << setw(10);
+			arr2d[i][0] = arr2d[i][j + 1] + arr2d[i][j + 2] + arr2d[i][j + 3] + arr2d[i][j + 4];
+			cout << arr2d[i][j];
 		}
 		cout << endl;
 	}
 }
-
 
 
 int main()
 {
 	setlocale(LC_ALL, "Russian");//Русский язык в консоли
-	cout << "Массив создан" << endl;
-	processArray(mas, n);//Запуск функциии создания массива
-	processSort(mas, d, r);//Запуск функции сортировки массива
-	//process2D(mas, mas2d);//Замена 1 -ых элементов массива суммой элементов
-
-	for (d = 0; d < 5; d++)
+	float** arr2d = new float* [rows];//Выделяем место под 2Д
+	for (int i = 0; i < rows; i++)
 	{
-		for (r = 0; r < 5; r++)
-		{
-			cout.width(10);
-			mas2d[d][0] = mas2d[d][r + 1] + mas2d[d][r + 2] + mas2d[d][r + 3] + mas2d[d][r + 4];
-			cout << mas2d[d][r];
-		}
-		cout << endl;
+		arr2d[i] = new float[cols];
 	}
-
+	arrIN(arr);
+	cout << endl;
+	cout << "Массив создан" << endl;
+	krey2d(arr2d, arr, rows, cols);
+	cout << endl;
+	cout << "Массив, с 1 строкой - суммой всех элементов строки" << endl;
+	summ(arr2d);
+	
+	for (int i = 0; i < rows; i++)
+	{
+		delete arr2d[i];
+	}
+	delete[]arr;
 	return 0;
 }
