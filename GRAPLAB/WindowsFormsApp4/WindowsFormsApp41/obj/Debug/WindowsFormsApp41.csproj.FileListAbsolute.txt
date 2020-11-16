@@ -1,0 +1,10 @@
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\bin\Debug\WindowsFormsApp41.exe.config
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\bin\Debug\WindowsFormsApp41.exe
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\bin\Debug\WindowsFormsApp41.pdb
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.csprojAssemblyReference.cache
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.Form1.resources
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.Properties.Resources.resources
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.csproj.GenerateResource.cache
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.csproj.CoreCompileInputs.cache
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.exe
+D:\Games\Студио\Pro\WindowsFormsApp41\WindowsFormsApp41\obj\Debug\WindowsFormsApp41.pdb
