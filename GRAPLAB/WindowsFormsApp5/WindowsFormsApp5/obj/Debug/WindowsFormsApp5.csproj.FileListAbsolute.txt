@@ -1,0 +1,10 @@
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\Games\Студио\Pro\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
