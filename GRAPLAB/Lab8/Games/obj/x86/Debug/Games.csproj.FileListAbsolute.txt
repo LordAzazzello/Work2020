@@ -1,0 +1,51 @@
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.Form1.resources
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.Cache
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\bin\Debug\Games.exe
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\bin\Debug\Games.pdb
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.exe
+c:\users\zet\documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.pdb
+C:\Users\zet\Documents\visual studio 2010\Projects\Games\Games\obj\x86\Debug\Games.csprojResolveAssemblyReference.cache
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.exe
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.pdb
+F:\графика\8 лаба\Games\Games\bin\Debug\Games.exe
+F:\графика\8 лаба\Games\Games\bin\Debug\Games.pdb
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.csprojResolveAssemblyReference.cache
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.Form1.resources
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+F:\графика\8 лаба\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.Cache
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.exe
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.pdb
+C:\Users\zet\Desktop\Games\Games\bin\Debug\Games.exe
+C:\Users\zet\Desktop\Games\Games\bin\Debug\Games.pdb
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.csprojResolveAssemblyReference.cache
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.Form1.resources
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+C:\Users\zet\Desktop\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.Cache
+D:\IVT-8_2020\8 лаба\Games\Games\bin\Debug\Games.exe
+D:\IVT-8_2020\8 лаба\Games\Games\bin\Debug\Games.pdb
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.csprojAssemblyReference.cache
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.Form1.resources
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.cache
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.csproj.CoreCompileInputs.cache
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.exe
+D:\IVT-8_2020\8 лаба\Games\Games\obj\x86\Debug\Games.pdb
+D:\IVT-8_2020\Games\Games\bin\Debug\Games.exe
+D:\IVT-8_2020\Games\Games\bin\Debug\Games.pdb
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.csprojAssemblyReference.cache
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.Form1.resources
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.cache
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.csproj.CoreCompileInputs.cache
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.exe
+D:\IVT-8_2020\Games\Games\obj\x86\Debug\Games.pdb
+C:\Users\Рома\Desktop\Games\Games\bin\Debug\Games.exe
+C:\Users\Рома\Desktop\Games\Games\bin\Debug\Games.pdb
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.Form1.resources
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.Properties.Resources.resources
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.exe
+C:\Users\Рома\Desktop\Games\Games\obj\x86\Debug\Games.pdb
