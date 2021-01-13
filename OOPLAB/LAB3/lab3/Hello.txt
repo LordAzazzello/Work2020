@@ -1,0 +1,2 @@
+Is instance of IShuffle
+Is instance of IShuffle
