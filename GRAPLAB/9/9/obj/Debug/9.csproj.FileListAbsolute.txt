@@ -1,0 +1,10 @@
+D:\Games\Студио\Pro\9\9\bin\Debug\9.exe.config
+D:\Games\Студио\Pro\9\9\bin\Debug\9.exe
+D:\Games\Студио\Pro\9\9\bin\Debug\9.pdb
+D:\Games\Студио\Pro\9\9\obj\Debug\9.csprojAssemblyReference.cache
+D:\Games\Студио\Pro\9\9\obj\Debug\_9.Form1.resources
+D:\Games\Студио\Pro\9\9\obj\Debug\_9.Properties.Resources.resources
+D:\Games\Студио\Pro\9\9\obj\Debug\9.csproj.GenerateResource.cache
+D:\Games\Студио\Pro\9\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+D:\Games\Студио\Pro\9\9\obj\Debug\9.exe
+D:\Games\Студио\Pro\9\9\obj\Debug\9.pdb
